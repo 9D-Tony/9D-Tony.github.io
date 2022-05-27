@@ -3,7 +3,8 @@ author:
   name: Tony Demot
   email: contact.tony.co.uk
 description: > # this means to ignore newlines until "show_excerpts:"
-  My personal blog site where I write about things that intrest me.
+  My personal blog site where I write about things that intrest me. 
+  If you want to contact me replace the first period with the at symbol.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,17 +16,17 @@ minima:
   # generate social links in footer
   social_links:
     twitter:
-    github:
-    # devto: jekyll
+    github: 9D-Tony
+    # devto: 9D-Tony
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    # youtube: https://www.youtube.com/channel/UCUw4Q5Sc7WGYj6rZWmBC67A
+    youtube_channel: UCUw4Q5Sc7WGYj6rZWmBC67A
+    youtube_channel_name: Tony D
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
