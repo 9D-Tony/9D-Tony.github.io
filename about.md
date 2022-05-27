@@ -9,4 +9,6 @@ Hey I'm Tony, I am intrested in game and web development. Below you can see my l
 
 [Twitter](https://twitter.com/Tony_TheDemon){:target="_blank"}
 
+[Itch.io](https://tony-d.itch.io/){:target="_blank"}
+
 email: contact.tonydemot.co.uk
