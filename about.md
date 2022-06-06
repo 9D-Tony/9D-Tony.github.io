@@ -12,3 +12,5 @@ Hey I'm Tony, I am intrested in game and web development. Below you can see my l
 [Itch.io](https://tony-d.itch.io/){:target="_blank"}
 
 email: contact.tonydemot.co.uk
+
+Replace the first . with an @
